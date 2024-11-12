@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+h1 {
+    color: rgb(248, 210, 140);
+}
+
+h1#principal{
+    text-align: center;
+    color: orange;
+}
+
+h1#secundário{
+   color: blue; 
+}
+
+h1#abstrato{
+    color: violet;
+}
